@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>NewBee日记 on NewBee</title>
+    <link>http://xioyito.top/series/newbee%E6%97%A5%E8%AE%B0/</link>
+    <description>Recent content in NewBee日记 on NewBee</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 07 Jul 2022 12:34:14 +0800</lastBuildDate><atom:link href="http://xioyito.top/series/newbee%E6%97%A5%E8%AE%B0/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>本地搜索的实现</title>
+      <link>http://xioyito.top/posts/%E6%9C%AC%E5%9C%B0%E6%90%9C%E7%B4%A2%E7%9A%84%E5%AE%9E%E7%8E%B0/</link>
+      <pubDate>Thu, 07 Jul 2022 12:34:14 +0800</pubDate>
+      
+      <guid>http://xioyito.top/posts/%E6%9C%AC%E5%9C%B0%E6%90%9C%E7%B4%A2%E7%9A%84%E5%AE%9E%E7%8E%B0/</guid>
+      <description>&lt;p&gt;无需配置的搜索功能它不香吗！&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>主题文档 on NewBee</title>
+    <link>http://xioyito.top/series/%E4%B8%BB%E9%A2%98%E6%96%87%E6%A1%A3/</link>
+    <description>Recent content in 主题文档 on NewBee</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 01 May 2022 16:19:04 +0800</lastBuildDate><atom:link href="http://xioyito.top/series/%E4%B8%BB%E9%A2%98%E6%96%87%E6%A1%A3/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>内容管理</title>
+      <link>http://xioyito.top/posts/%E5%86%85%E5%AE%B9%E7%AE%A1%E7%90%86/</link>
+      <pubDate>Sun, 01 May 2022 16:19:04 +0800</pubDate>
+      
+      <guid>http://xioyito.top/posts/%E5%86%85%E5%AE%B9%E7%AE%A1%E7%90%86/</guid>
+      <description>&lt;p&gt;了解如何组织和管理 NewBee 主题的内容。&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Shortcodes</title>
+      <link>http://xioyito.top/posts/shortcodes/</link>
+      <pubDate>Thu, 28 Apr 2022 15:21:59 +0800</pubDate>
+      
+      <guid>http://xioyito.top/posts/shortcodes/</guid>
+      <description>简单来理解，Shortcodes 就是一组内容样式模板，你可以在 markdown 里像使用 HTML 一样使用 Shortcodes</description>
+    </item>
+    
+    <item>
+      <title>快速开始</title>
+      <link>http://xioyito.top/posts/%E5%BF%AB%E9%80%9F%E5%BC%80%E5%A7%8B/</link>
+      <pubDate>Thu, 21 Apr 2022 23:24:03 +0800</pubDate>
+      
+      <guid>http://xioyito.top/posts/%E5%BF%AB%E9%80%9F%E5%BC%80%E5%A7%8B/</guid>
+      <description>快速上手 NewBee 主题</description>
+    </item>
+    
+  </channel>
+</rss>

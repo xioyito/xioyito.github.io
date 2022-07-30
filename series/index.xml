@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Series on NewBee</title>
+    <link>http://xioyito.top/series/</link>
+    <description>Recent content in Series on NewBee</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 07 Jul 2022 12:34:14 +0800</lastBuildDate><atom:link href="http://xioyito.top/series/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>NewBee日记</title>
+      <link>http://xioyito.top/series/newbee%E6%97%A5%E8%AE%B0/</link>
+      <pubDate>Thu, 07 Jul 2022 12:34:14 +0800</pubDate>
+      
+      <guid>http://xioyito.top/series/newbee%E6%97%A5%E8%AE%B0/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>主题文档</title>
+      <link>http://xioyito.top/series/%E4%B8%BB%E9%A2%98%E6%96%87%E6%A1%A3/</link>
+      <pubDate>Sun, 01 May 2022 16:19:04 +0800</pubDate>
+      
+      <guid>http://xioyito.top/series/%E4%B8%BB%E9%A2%98%E6%96%87%E6%A1%A3/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on NewBee</title>
+    <link>http://xioyito.top/categories/</link>
+    <description>Recent content in Categories on NewBee</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 07 Jul 2022 12:34:14 +0800</lastBuildDate><atom:link href="http://xioyito.top/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>0和1</title>
+      <link>http://xioyito.top/categories/0%E5%92%8C1/</link>
+      <pubDate>Thu, 07 Jul 2022 12:34:14 +0800</pubDate>
+      
+      <guid>http://xioyito.top/categories/0%E5%92%8C1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>主题文档</title>
+      <link>http://xioyito.top/categories/%E4%B8%BB%E9%A2%98%E6%96%87%E6%A1%A3/</link>
+      <pubDate>Thu, 28 Apr 2022 15:21:59 +0800</pubDate>
+      
+      <guid>http://xioyito.top/categories/%E4%B8%BB%E9%A2%98%E6%96%87%E6%A1%A3/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
